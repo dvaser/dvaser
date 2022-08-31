@@ -1,13 +1,36 @@
-# Doğukan Vatansever 
+# Hi, I'm Doğukan.
+
+> ![link](https://user-images.githubusercontent.com/74770052/187730702-d10db106-6fca-4d10-a7c7-b85376b001e2.png) &nbsp; [**`Social Media Links`**](https://linktr.ee/Dvaser)
+
+
+<br>
+
 
 
 ## ✨ My Skills ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### Programming Languages
+  - Back-End  
+    > ![python](https://user-images.githubusercontent.com/74770052/187727152-f4683948-8de5-4f04-b700-623b1dac5b7e.png) &nbsp;
+![cSharp](https://user-images.githubusercontent.com/74770052/187727132-d7406004-9e3d-4ccb-95b2-947911f0d769.png) &nbsp;
+![java](https://user-images.githubusercontent.com/74770052/187727145-2c444f6c-edc0-47fb-b337-0fe175815324.png) &nbsp;
+![js](https://user-images.githubusercontent.com/74770052/187727163-363d7207-3d17-4d31-ab1a-d0e7498a94b5.png) &nbsp;
+![c++](https://user-images.githubusercontent.com/74770052/187727167-500b3f3b-761c-4689-9baa-480687602863.png)
+  
+  - Front-End
+    > ![html5](https://user-images.githubusercontent.com/74770052/187727136-3a64ac24-b277-49a9-b9f5-f9c1f7bce371.png) &nbsp;
+![css3](https://user-images.githubusercontent.com/74770052/187727141-940c5603-c3f0-4990-8469-2f0b219db5f0.png) 
+  
+  - Mobile App
+      > ![flutter](https://user-images.githubusercontent.com/74770052/187738076-f697f189-67e1-4bc8-b2d0-cd59ba8d5b4f.png) &nbsp;
+![Dart](https://user-images.githubusercontent.com/74770052/187738079-d33fe3e3-3eca-49ee-ae1e-dc3ccaafff6c.png)
+
+- ### Database
+  > ![mssql](https://user-images.githubusercontent.com/74770052/187727143-79fd4e42-575f-4298-a15e-086efb9c010f.png)
+
+- ### FrameWork
+  > ![NETframework](https://user-images.githubusercontent.com/74770052/187739877-33b8ad0f-8481-4e1c-b7f5-40386eb67eed.png)
+
+- ### UI/UX Design
+  > ![illustrator](https://user-images.githubusercontent.com/74770052/187727149-b4561180-d626-4690-87bc-2c344c1bbdd7.png) &nbsp;
+![figma](https://user-images.githubusercontent.com/74770052/187727160-cfe0e5b4-87a7-4a9d-8f92-2afdeb353816.png)
