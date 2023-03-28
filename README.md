@@ -49,13 +49,15 @@
 
 <br>
 
-## ✨ My Badges ✨
+## 📊 GitHub Stats: 
+ ![](https://github-readme-stats.vercel.app/api?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=dvaser&theme=gotham&hide_border=false)<br/> 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <a href="https://github.com/dvaser" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!---
-<a href="http://www.github.com/dvaser"><img src="https://github-readme-stats.vercel.app/api?username=dvaser&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dvaser's GitHub stats"/></a>
+ --- 
+ ![snake gif](https://github.com/dvaser/dvaser/blob/output/github-contribution-grid-snake.svg) 
+ --- 
 
-<a href="http://www.github.com/dvaser"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dvaser&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvaser&label=ProfileViews&color=green&style=flat" alt="dvaser"/> </p>
