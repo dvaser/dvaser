@@ -16,23 +16,6 @@
 [![css3](https://user-images.githubusercontent.com/74770052/187727141-940c5603-c3f0-4990-8469-2f0b219db5f0.png)](https://github.com/dvaser) &nbsp;
 [![Dart](https://user-images.githubusercontent.com/74770052/187738079-d33fe3e3-3eca-49ee-ae1e-dc3ccaafff6c.png)](https://github.com/dvaser)
 
-
-<!---
-  - `Back-End`
-    > [![python](https://user-images.githubusercontent.com/74770052/187727152-f4683948-8de5-4f04-b700-623b1dac5b7e.png)](https://github.com/dvaser) &nbsp;
-[![cSharp](https://user-images.githubusercontent.com/74770052/187727132-d7406004-9e3d-4ccb-95b2-947911f0d769.png)](https://github.com/dvaser) &nbsp;
-[![java](https://user-images.githubusercontent.com/74770052/187727145-2c444f6c-edc0-47fb-b337-0fe175815324.png)](https://github.com/dvaser) &nbsp;
-[![js](https://user-images.githubusercontent.com/74770052/187727163-363d7207-3d17-4d31-ab1a-d0e7498a94b5.png)](https://github.com/dvaser) &nbsp;
-[![c++](https://user-images.githubusercontent.com/74770052/187727167-500b3f3b-761c-4689-9baa-480687602863.png)](https://github.com/dvaser)
-  
-  - `Front-End`
-    > [![html5](https://user-images.githubusercontent.com/74770052/187727136-3a64ac24-b277-49a9-b9f5-f9c1f7bce371.png)](https://github.com/dvaser) &nbsp;
-[![css3](https://user-images.githubusercontent.com/74770052/187727141-940c5603-c3f0-4990-8469-2f0b219db5f0.png)](https://github.com/dvaser)
-  
-  - `Mobile App`
-      > [![Dart](https://user-images.githubusercontent.com/74770052/187738079-d33fe3e3-3eca-49ee-ae1e-dc3ccaafff6c.png)](https://github.com/dvaser)
--->
-
 > ### Database
   > [![mssql](https://user-images.githubusercontent.com/74770052/187727143-79fd4e42-575f-4298-a15e-086efb9c010f.png)](https://github.com/dvaser) &nbsp;
 ![sqlite](https://user-images.githubusercontent.com/74770052/196807952-fe5049f9-6438-4797-858f-6ba453e6f4c7.png) &nbsp;
@@ -49,7 +32,7 @@
 
 <br>
 
-## 📊 GitHub Stats: 
+## GitHub Stats
 
  ![](https://github-readme-stats.vercel.app/api?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/> 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=dvaser&theme=gotham&hide_border=false)<br/> 
@@ -57,8 +40,5 @@
 
 <a href="https://github.com/dvaser" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
- --- 
- ![snake gif](https://github.com/dvaser/blob/output/github-contribution-grid-snake.svg) 
- --- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvaser&label=ProfileViews&color=green&style=flat" alt="dvaser"/> </p>
