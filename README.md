@@ -57,7 +57,7 @@
 <a href="https://github.com/dvaser" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
  --- 
- ![snake gif](https://github.com/dvaser/dvaser/blob/output/github-contribution-grid-snake.svg) 
+ ![snake gif](https://github.com/dvaser/blob/output/github-contribution-grid-snake.svg) 
  --- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvaser&label=ProfileViews&color=green&style=flat" alt="dvaser"/> </p>
