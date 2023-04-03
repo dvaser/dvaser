@@ -32,13 +32,8 @@
 
 <br>
 
----
+![](https://github-readme-stats.vercel.app/api?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
- ![](https://github-readme-stats.vercel.app/api?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/> 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=dvaser&theme=gotham&hide_border=false)<br/> 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-<a href="https://github.com/dvaser" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvaser&label=ProfileViews&color=green&style=flat" alt="dvaser"/> </p>
