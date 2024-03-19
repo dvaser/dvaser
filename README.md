@@ -1,39 +1,79 @@
-[![header](https://user-images.githubusercontent.com/74770052/187743952-b5d39f5b-f8b0-4b8c-84f0-f71705298248.png)](https://linktr.ee/Dvaser)
- 
-> [![link](https://user-images.githubusercontent.com/74770052/187730702-d10db106-6fca-4d10-a7c7-b85376b001e2.png)](https://linktr.ee/Dvaser) &nbsp; [**_Social Media Links_**](https://linktr.ee/Dvaser)
+# *<div align="center">Hey 👋, I'm Doğukan Vatansever!</div>*  
+  
 
-<br>
+<div align="center">
+<a href="https://github.com/dvaser" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/dvaserr" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/dvaser" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/dvase" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/dvaserr" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-## ✨ My Skills ✨
+<br/>  
 
-> ### Programming Languages
- > [![python](https://user-images.githubusercontent.com/74770052/187727152-f4683948-8de5-4f04-b700-623b1dac5b7e.png)](https://github.com/dvaser) &nbsp;
-[![cSharp](https://user-images.githubusercontent.com/74770052/187727132-d7406004-9e3d-4ccb-95b2-947911f0d769.png)](https://github.com/dvaser) &nbsp;
-[![java](https://user-images.githubusercontent.com/74770052/187727145-2c444f6c-edc0-47fb-b337-0fe175815324.png)](https://github.com/dvaser) &nbsp;
-[![js](https://user-images.githubusercontent.com/74770052/187727163-363d7207-3d17-4d31-ab1a-d0e7498a94b5.png)](https://github.com/dvaser) &nbsp;
-[![c++](https://user-images.githubusercontent.com/74770052/187727167-500b3f3b-761c-4689-9baa-480687602863.png)](https://github.com/dvaser) &nbsp;
-[![html5](https://user-images.githubusercontent.com/74770052/187727136-3a64ac24-b277-49a9-b9f5-f9c1f7bce371.png)](https://github.com/dvaser) &nbsp;
-[![css3](https://user-images.githubusercontent.com/74770052/187727141-940c5603-c3f0-4990-8469-2f0b219db5f0.png)](https://github.com/dvaser) &nbsp;
-[![Dart](https://user-images.githubusercontent.com/74770052/187738079-d33fe3e3-3eca-49ee-ae1e-dc3ccaafff6c.png)](https://github.com/dvaser)
 
-> ### Database
-  > [![mssql](https://user-images.githubusercontent.com/74770052/187727143-79fd4e42-575f-4298-a15e-086efb9c010f.png)](https://github.com/dvaser) &nbsp;
-![sqlite](https://user-images.githubusercontent.com/74770052/196807952-fe5049f9-6438-4797-858f-6ba453e6f4c7.png) &nbsp;
-![mysql](https://user-images.githubusercontent.com/74770052/196807956-9e0dc3b9-0ae0-4acf-bfa4-1355b359a76e.png) &nbsp;
-![mongodb](https://user-images.githubusercontent.com/74770052/196807703-108e63a8-9741-441f-a5a6-35bd1a9f33bc.png)
+## Languages and Tools  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
+</div>  
 
-> ### FrameWork
-  > [![flutter](https://user-images.githubusercontent.com/74770052/187738076-f697f189-67e1-4bc8-b2d0-cd59ba8d5b4f.png)](https://github.com/dvaser) &nbsp;
-[![NETframework](https://user-images.githubusercontent.com/74770052/187739877-33b8ad0f-8481-4e1c-b7f5-40386eb67eed.png)](https://github.com/dvaser)
+<br/>  
 
-> ### UI/UX Design
-  > [![illustrator](https://user-images.githubusercontent.com/74770052/187727149-b4561180-d626-4690-87bc-2c344c1bbdd7.png)](https://github.com/dvaser) &nbsp;
-[![figma](https://user-images.githubusercontent.com/74770052/187727160-cfe0e5b4-87a7-4a9d-8f92-2afdeb353816.png)](https://github.com/dvaser)
 
-<br>
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dvaser&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvaser&label=ProfileViews&color=green&style=flat" alt="dvaser"/> </p>
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvaser&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dvaser&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
