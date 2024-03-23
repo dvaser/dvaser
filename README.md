@@ -1,7 +1,7 @@
 # *<div align="center">Hey 👋, I'm Doğukan Vatansever!</div>*  
 
 ### <div align="center">I'm a Computer Engineering👨‍💻 My Career Goal is a Data Science📈& Machine Learning🤖 I like to be interested in robotics and computer vision🚀</div>  
-- 💼 I’m currently working on TOFAŞ    
+-  <div align="left"> 💼 I’m currently working on TOFAŞ </div>   
 - 🌱 I’m currently learning Data Science & Machine Learning    
 - ❓ Ask me about anything related to Python  
 - 📫 How to reach me dogukanvtnsvr@hotmail.com
